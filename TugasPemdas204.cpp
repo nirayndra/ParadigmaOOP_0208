@@ -22,4 +22,6 @@ int main(){
     elektronik.jumlah = 23;
     elektronik.kategori = "Besar";
     elektronik.tanggalProduksi = "20-04-2026";
+
+    Barang nonElektronik;
 }
