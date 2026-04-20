@@ -15,3 +15,7 @@ public:
         cout << "Tanggal Produksi: " << tanggalProduksi << endl;
     }
 };
+
+int main(){
+
+}
