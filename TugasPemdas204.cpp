@@ -17,5 +17,5 @@ public:
 };
 
 int main(){
-
+    Barang elektronik;
 }
