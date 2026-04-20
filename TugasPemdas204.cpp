@@ -28,4 +28,7 @@ int main(){
     nonElektronik.jumlah = 50;
     nonElektronik.kategori = "Perhiasan";
     nonElektronik.tanggalProduksi = "15-11-2025";
+
+    elektronik.dataBarang();
+    nonElektronik.dataBarang();
 }
