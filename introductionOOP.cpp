@@ -15,5 +15,6 @@ public:
 }; // batas class
 
 int main(){
-    
+    //object
+    Mahasiswa mhs;
 }
